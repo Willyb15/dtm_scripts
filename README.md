@@ -1,3 +1,7 @@
-##Custom Scripts Written and Injected Via DTM
+# Custom Scripts Injected Via DTM
 
-##Single Page App tracking with DTM
+### Profiling Single Page App Tracking 
+
+### Wrote XHR Listeners using Native Javascript (xhttp.open and xhttp.send methods) due to single page app having no #id's or .classnames with all in line styling
+
+### Basically an analytics nightmare
